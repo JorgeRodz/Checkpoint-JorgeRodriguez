@@ -1,0 +1,25 @@
+history
+nvim resumenHardware.txt
+nvim resumenSoftware.txt
+ls
+mv index.html resumenSoftware.txt
+mv main.js resumenHardware.txt
+git checkout master
+git checkout main
+git push origin feature
+glo
+git status
+git add . && git commit -m "commit 02 JorgeRodriguez" -m "- Agregar las carpertas Hardware, Software y SeguridadInformatica
+- Agregar dentro de cada una de las carpertas el archivo resumen.txt"
+tree
+touch Hardware/resument.txt Software/resument.txt SeguridadInformatica/resument.txt
+mkdir Hardware/ Software/ SeguridadInformatica/
+mkdir Hardware/resument.txt Software/resument.txt SeguridadInformatica/resument.txt
+git checkout -b feature
+git push origin master
+git log --oneline
+git commit --amend
+git add . && git commit -m "commit 01 JorgeRodriguez"
+touch main.js index.html
+cd Checkpoint-JorgeRodriguez/
+git clone git@github.com:JorgeRodz/Checkpoint-JorgeRodriguez.git
