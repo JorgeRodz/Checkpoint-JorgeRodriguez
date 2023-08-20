@@ -1,4 +1,4 @@
 # Tres ejemplos de hardware
-1- Placa madre
-2- Memoria RAM
-3- Procesador
+1- Cache
+2- RAM
+3- ROM
